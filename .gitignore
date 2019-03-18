@@ -5,5 +5,6 @@
 .Ruserdata
 
 data/*
+extra/*
 !data/.gitkeep
 
